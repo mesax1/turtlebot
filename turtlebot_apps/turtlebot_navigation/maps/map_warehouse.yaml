@@ -1,0 +1,8 @@
+image: map_warehouse.pgm
+resolution: 0.050000
+origin: [-40.000000, -13.500000, 0.000000]
+orientation: [0, 0, 0, 0]
+negate: 0
+occupied_thresh: 0.9
+free_thresh: 0.196
+
